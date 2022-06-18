@@ -1,13 +1,13 @@
 export const config = {
   "dev": {
-    "username": "",
-    "password": "",
+    "username": "udigram-robert2-dev",
+    "password": "udigram-robert2-dev",
     "database": "",
-    "host": "",
+    "host": "udigramrobertdev.cie5k51yor2s.us-east-1.rds.amazonaws.com",
     "dialect": "postgres",
     "aws_region": "us-east-2",
     "aws_profile": "default",
-    "aws_media_bucket": "udagram-ruttner-dev"
+    "aws_media_bucket": "udagram-robert2-dev"
   },
   "jwt": {
     "secret": " "
